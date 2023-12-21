@@ -1,0 +1,10 @@
+<suite name="suite001">
+<test name="test001">
+<classes>
+<class name="in.reqres.test.RegisterUser001"></class>
+<class name="in.reqres.test.GetUser002"></class>
+<class name="in.reqres.test.LoginUser003"></class>
+<class name="in.reqres.test.LoggingRequest004"></class>
+</classes>
+</test>
+</suite>
